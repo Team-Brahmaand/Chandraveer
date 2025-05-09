@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LaunchScene Shaggy.unity
+    guid: 4cc1e58b7ee58e341838074dc4508d9f
+  - enabled: 1
+    path: Assets/Scenes/Seperation.unity
+    guid: 47516549127440e418eb752b98727ee8
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: bfce483551e874b40a466e870474d69e
+  - enabled: 1
+    path: Assets/Scenes/Real Time Data.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LanderOrbiter.unity
+    guid: a484a521c9244a149bd13342fec434e7
+  - enabled: 1
+    path: Assets/Scenes/LandingBig.unity
+    guid: 41c18f2b2535a9346b957b5c2bc35b1a
+  - enabled: 0
+    path: Assets/Scenes/RealTimeDupli.unity
+    guid: 8d47cb688d57cb045a013acda05490aa
+  - enabled: 1
+    path: Assets/Scenes/Real Time Data Dupli.unity
+    guid: 0f0acd869a0e4fb4b997591389ef9242
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 985fdffee33a5944396199c6b7145dd4, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
+  m_UseUCBPForAssetBundles: 0

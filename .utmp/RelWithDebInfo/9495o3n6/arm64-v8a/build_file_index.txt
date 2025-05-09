@@ -1,0 +1,2 @@
+D:\Unity\ChandraVeer2.0 Third Phase\ChandraVeer2.0\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unity\ChandraVeer2.0 Third Phase\ChandraVeer2.0\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
