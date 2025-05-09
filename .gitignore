@@ -9,8 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/build 1
-/APK/
+# Ignore APK and Build 1 folders
+APK/
+Build 1/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
