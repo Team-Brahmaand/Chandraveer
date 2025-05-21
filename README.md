@@ -97,4 +97,4 @@ For feedback, suggestions, or collaboration opportunities, reach out to the team
 * [**Shagnik Chakraborty**](https://github.com/Shagnik-Chakraborty) – Team Lead & Developer
 * [**Kartik Peddu**](https://github.com/Kartikpeddu10) – Research Analyst & Scene Developer
 * [**Shrey Khetan**](https://github.com/ANS1087) – Asset and Resource Manager
-* [**Kunal Chitkara**]((https://github.com/kunalchitkara010)) – Visual Content Designer
+* [**Kunal Chitkara**](https://github.com/kunalchitkara010) – Visual Content Designer
