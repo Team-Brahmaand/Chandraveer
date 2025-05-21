@@ -90,6 +90,15 @@ Each team member contributed their expertise to different aspects of the project
 
 ---
 
+### 🚀 Download the VR App
+
+👉 [Download ChandraVeer v1.0.0 – APK Release](https://github.com/Team-Brahmaand/Chandraveer/releases/tag/v1.0.0)
+
+> 📦 File: `ChandraVeer.apk`
+> 🎮 Platform: Meta Quest 3
+
+---
+
 ### 📬 **Contact and Contributions**
 
 For feedback, suggestions, or collaboration opportunities, reach out to the team:
